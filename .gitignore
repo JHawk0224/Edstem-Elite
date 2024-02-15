@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+.DS_Store
+*/.DS_Store
+*.env
+*.env.*
+*.zip
+node_modules
+target
+__pycache__
